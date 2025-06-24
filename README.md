@@ -17,6 +17,9 @@ The libraries are
 1. OpenCV-python
 2. Face-Recognition
 3. Face-Recognition-Models
+4. Numpy
+5. OS
+6. pickle
 
 ## NOTE: I HAVE DEVELOPED THIS PROJECT IN PYTHON __VERSION__== "3.12.6"(VENV)
 
@@ -36,3 +39,6 @@ Note : Please make sure to install Visual Studio for C++ and CMAKE from the belo
 3. pip install face_recognition
 4. pip install face_recognition_models
 5. pip install opencv-python
+6. pip install numpy
+7. pip install pickle
+
